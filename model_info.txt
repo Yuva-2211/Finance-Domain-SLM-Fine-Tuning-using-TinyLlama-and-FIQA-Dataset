@@ -1,0 +1,54 @@
+PROJECT NAME
+TinyLlama Finance Assistant
+
+BASE MODEL
+TinyLlama/TinyLlama-1.1B-Chat-v1.0
+
+MODEL TYPE
+Small Language Model (SLM)
+
+DOMAIN
+Financial Question Answering
+
+DATASET
+LLukas22/fiqa
+
+FINE-TUNING METHOD
+LoRA (Low-Rank Adaptation)
+
+FRAMEWORKS USED
+
+* PyTorch
+* Hugging Face Transformers
+* PEFT
+* Datasets
+* Evaluate
+
+TRAINING ENVIRONMENT
+Google Colab
+
+EVALUATION METRICS
+
+* ROUGE
+* BERTScore
+
+FINAL METRICS
+ROUGE-1: 0.208
+ROUGE-2: 0.023
+ROUGE-L: 0.104
+BERTScore F1: 0.827
+
+KEY OBSERVATIONS
+
+* Successful finance domain adaptation
+* Strong semantic similarity
+* Lightweight and efficient fine-tuning
+* Some repetition observed during long generation
+
+FUTURE IMPROVEMENTS
+
+* Retrieval-Augmented Generation (RAG)
+* QLoRA optimization
+* Larger finance datasets
+* Better decoding strategies
+* API deployment
