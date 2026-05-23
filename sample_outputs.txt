@@ -1,0 +1,17 @@
+QUESTION:
+What is inflation?
+
+GENERATED ANSWER:
+Inflation is the increase in the price of goods and services over time, which reduces purchasing power and impacts economic stability.
+
+QUESTION:
+What is a mutual fund?
+
+GENERATED ANSWER:
+A mutual fund is an investment vehicle that pools money from multiple investors to invest in diversified financial assets such as stocks and bonds.
+
+QUESTION:
+What is a stock market crash?
+
+GENERATED ANSWER:
+A stock market crash refers to a sudden and significant decline in stock prices across the financial market, often caused by panic selling and economic uncertainty.
