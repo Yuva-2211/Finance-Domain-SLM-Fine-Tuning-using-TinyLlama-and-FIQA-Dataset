@@ -8,7 +8,7 @@ base_model_name = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 
 # Path to your trained LoRA adapter
 
-adapter_path = "./finance_slm"
+adapter_path = "./slm_model"
 
 # Load tokenizer
 
